@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "stressaddition"]
 	path = stressaddition
-	url = https://github.com/farbfetzen/stressaddition
+	url = https://github.com/cran/stressaddition
